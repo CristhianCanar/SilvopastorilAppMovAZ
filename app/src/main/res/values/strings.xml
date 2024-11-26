@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SilvoTech</string>
+    <string name="title_activity_inicio_sesion">InicioSesion</string>
+    <string name="descripcionSS"> Es un recurso que implementa un manejo integral entre árboles, pasturas y animales; el cual es utilizado para mejorar la calidad de crianza de ganado y contrarrestar la contaminación producida por la actividad ganadera. Lo que se busca obtener es una GANADERIA SOSTENIBLE, donde su objetivo principal es que la producción ganadera no genere un impacto negativo demasiado alto. Igualmente, se encuentran tres componentes beneficiados por este sistema, los cuales son la ATMÓSFERA, los RECURSOS HÍDRICOS y el SUELO.</string>
+    <string name="benf1">Ayuda a tener una productividad de mayor calidad</string>
+    <string name="benf2">Promueve la calidad de vida y el bienestar de los animales</string>
+    <string name="benf3">Mejor aprovechamiento de los recursos naturales</string>
+    <string name="benf4">Reduce el uso de alimentos concentrados</string>
+    <string name="benf5">Brinda alimento durante todo el año y mejora su calidad</string>
+    <string name="dispersos">Conocido como praderas de pasturas nativas mejoradas en los que se implementan árboles distribuídos aleatoriamente en el potrero, con un promedio de 30 árboles por Hctárea. Cumplen la funcion de brindar sombra y refugio de la lluvia para el ganado.</string>
+    <string name="cercas">Este tipo de arreglos se basa en plantar árboles o arbustos aprovechables como alimento para delimitar cada uno de los potreros, además, se utilizan diferentes especies de árboles, las cuales también pueden ser aprovechados para la obtención de madera para diferentes usos en la finca. Se usan con distancias de 3 a 5 metros entre cada árbol.</string>
+    <string name="bancos">Basado en cultivos de alta densidad de arbustos con una gran concentración de proteína, que brinden un valor nutritivo elevado para los animales, el cual se aprovecha por medio de prácticas de corte o métodos conservación de forraje.</string>
+    <string name="rotacional">Este método divide en varias parcelas o potreros el terreno, y el ganado se mueve periódicamente de uno a otro. Este método se utiliza para optimizar el uso del pasto, permitir la recuperación y regeneración de la las pasturas y prevenir la degradación del suelo.</string>
+</resources>
